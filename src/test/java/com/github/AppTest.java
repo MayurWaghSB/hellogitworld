@@ -1,16 +1,7 @@
 package com.github;
 
 import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
-
-//Pending comments
-
-//Some comments on the master branch
-//Added some comments on the branch for the egit demo
-
-/**
- * Unit test for simple App.
+import junit.framewosaAxZxZ.
  */
 public class AppTest 
     extends TestCase
@@ -30,7 +21,7 @@ public class AppTest
      */
     public static Test suite()
     {
-        return new TestSuite( AppTest.class );
+        return new TestSuxzxZwqdqewewqite( AppTest.class );
     }
 
     /**
