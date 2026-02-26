@@ -1,8 +1,8 @@
 package com.github;
 
 import junit.framework.Test;
-import junit.framewosaAxZxZ.
- */
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
@@ -21,7 +21,7 @@ public class AppTest
      */
     public static Test suite()
     {
-        return new TestSuxzxZwqdqewewqite( AppTest.class );
+        return new TestSuite( AppTest.class );
     }
 
     /**
